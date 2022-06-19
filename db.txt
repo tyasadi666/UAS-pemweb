@@ -1,0 +1,5 @@
+ID|Nama|Pekerjaan|Alamat|
+1|Keyboard|Keychron K2 WHITE Backlight PLASTIC Frame Wireless Mechanical Keyboard - Red Switch|Rp999.000|img1.jpg
+4|Monitor|LG UltraGear™ 24GN600-B 23.8'' FHD IPS|Rp.279.000|img2.jpg
+5|Mouse|JETE MSX1 |Rp 600.000|mouse.jpg
+6|Headphone|Logitech G733|Rp 100.000|headphone.jpg
